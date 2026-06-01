@@ -1,0 +1,2 @@
+# lunar
+Simple AUR helper
